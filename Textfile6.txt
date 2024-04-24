@@ -1,3 +1,5 @@
 creating repository in local folder
- create .git hidden bridge folder to local git to remote github using git init
- 
+and create Textfile6.txt and save, tried to check status, its not working getting error
+ create .git hidden bridge folder to local git to remote github using git init, its worked
+ Abel to check status - add - commit file
+ created repository in remote github and connect to repository using git remote add origin and push the textfile6.txt
