@@ -1,0 +1,3 @@
+creating repository in local folder
+ create .git hidden bridge folder to local git to remote github using git init
+ 
